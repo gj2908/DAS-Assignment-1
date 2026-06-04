@@ -4,9 +4,9 @@ import android.annotation.SuppressLint
 import android.content.Context
 import android.provider.Settings
 import android.util.Log
-import com.example.coresdk.network.ApiClient
-import com.example.coresdk.network.CryptoUtils
-import com.example.coresdk.network.PayloadRequest
+import com.example.core_sdk.network.ApiClient
+import com.example.core_sdk.network.CryptoUtils
+import com.example.core_sdk.network.PayloadRequest
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
